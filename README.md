@@ -79,7 +79,7 @@ set XhUeL=MBHIZACLPGOTEQVWSURDYKXNJF
 </p>
 </details>
 
-The mentioned python script can help in decoding the payload.
+The mentioned python script can help in decoding the payload and writes it to the file <FileName__decoded.bin"
 
 
 ![Cynaid](https://user-images.githubusercontent.com/71969773/168584430-30cdd5ce-e6ee-4707-8f18-7a2e3f6fcb67.PNG)
