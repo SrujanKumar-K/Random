@@ -1,7 +1,9 @@
 #    YourCyanide Ransomware
 
-[Reference](https://twitter.com/Computeus7/status/1525906855477792768)
- 
+[Reference taken from](https://twitter.com/Computeus7/status/1525906855477792768)
+
+
+Following is the the obfucated paylaod.
 <details><summary>Click Here</summary>
 <p>
   
