@@ -3,7 +3,7 @@
 [Reference taken from](https://twitter.com/Computeus7/status/1525906855477792768)
 
 
-Following is the the obfucated paylaod.
+Following is the the obfucated paylaod from **hxxps://pastebin[.]com/raw/EZ88t5c1**.
 <details><summary>Click Here</summary>
 <p>
   
